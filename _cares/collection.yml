@@ -1,5 +1,4 @@
 collections:
   cares:
     output: true
-    order:
-      - CARES.md
+    order: []
