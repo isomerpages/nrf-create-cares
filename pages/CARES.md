@@ -3,10 +3,6 @@ title: CARES
 permalink: /about-create/research-centres/cares/
 description: ""
 ---
-
-
-
-
 ![](/images/1cares-450.png)
 
 The Cambridge Centre for Advanced Research and Education (CARES) was established in 2013 as the University of Cambridge’s first research centre outside the UK. It brings together researchers from the University of Cambridge, Nanyang Technological University and National University of Singapore to work on problems relevant to Singapore and the world at large.  
@@ -82,5 +78,4 @@ CREATE Tower, #05-05
 Singapore 138602
 
 **Publications**  
-Website:
-https://www.cares.cam.ac.uk/publications/
+Website:   https://www.cares.cam.ac.uk/publications/
