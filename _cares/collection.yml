@@ -2,4 +2,4 @@ collections:
   cares:
     output: true
     order:
-      - About CARES.md
+      - CARES.md
