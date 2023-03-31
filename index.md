@@ -8,17 +8,14 @@ notification: ""
 sections:
   - hero:
       title: CARES
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/1cares-450.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Click here for CREATE Home Page
+          description: ""
+          url: https://staging.d1q14glctguzyi.amplifyapp.com/
+        - title: About CARES
+          description: ""
+          url: /about-create/research-centres/cares/
         - title: Page A
           description: Page A is important too
           url: /privacy/
