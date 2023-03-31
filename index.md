@@ -16,7 +16,4 @@ sections:
         - title: About CARES
           description: ""
           url: /about-create/research-centres/cares/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
 ---
