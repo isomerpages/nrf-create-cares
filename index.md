@@ -8,8 +8,7 @@ notification: ""
 sections:
   - hero:
       title: CARES
-      subtitle: The Cambridge Centre for Advanced Research and Education (CARES) was
-        established in 2013
+      subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
