@@ -4,11 +4,12 @@ title: CARES
 description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: CARES
+      subtitle: The Cambridge Centre for Advanced Research and Education (CARES) was
+        established in 2013
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -22,13 +23,4 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
-
-
-
